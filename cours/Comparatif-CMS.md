@@ -24,13 +24,17 @@ Il y a aussi les CMS de type Wikis ( sites dont le contenu est édité par les v
 Les portails :
 
 * Joomla 
-* Drupal 
+* Drupal
 
-Gestion de contenus 
-dynamique
-blog 
-simplicité
-administrateur
+# Correction #
+
+CMS = Gestion de contenus 
+
+Caractéristiques :
+* Dynamique
+* Blog 
+* Simplicité
+* Administrateur
 
 k-sup
 ez.publish
@@ -48,6 +52,8 @@ Tous en open source sauf sharepoint
 Tous sont codés en PHP sauf PLone en Python et Django en Ruby
 
 Il rste peu de CMS par rpport à avant ; les restants sont en open source et ils sont toujours présents parce qu'ils ne font pas tous la même chose 
+
+Framework PHP : Symfony
 
 https://guides.github.com/features/mastering-markdown/
 
