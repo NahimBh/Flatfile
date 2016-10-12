@@ -57,3 +57,5 @@ Il reste peu de CMS par rapport à avant ; les restants sont en open source et i
 Framework PHP : Symfony
 
 Lien utile : https://guides.github.com/features/mastering-markdown/
+
+Aperçu de Liquid -> Jekyll ( ex : title: value et {{site.title}} )
