@@ -4,7 +4,7 @@ C'est un blog en anglais sur les livres et les différentes histoires qu'elles p
 
 -----------------
 
-Mots-clés : #Anglais #TestArticle
+Mots-clés : #Anglais #Test
 
 Favicon: 
 ![Livre](_Books2.jpeg)
@@ -14,7 +14,7 @@ Bannière Web:
 
 Couleurs : 
 * HEX:#000000
-* HEX:FFFFFF
+* HEX:#FFFFFF
 
 Pour l'instant il n'y a pas vraiment de contenu, ce n'est qu'un test de Tumblr et de ses différentes fonctions. 
 
