@@ -36,28 +36,26 @@ Caractéristiques :
 * Simplicité
 * Administrateur
 
-k-sup
-ez.publish
-Joomla
-Drupal
-TYPo3
-Sharepoint
-Magento
-Prestashop
-Wordpress
-Django
-Plone 
+Voici quelques CMS :
 
-Tous en open source sauf sharepoint 
-Tous sont codés en PHP sauf PLone en Python et Django en Ruby
+CMS | Open Source & Code 
+------------ | -------------
+K-Sup | Tous sont en Open Source sauf SharePoint
+Ez.Publish | Tous sont codés en PHP sauf Plone en Python et Django en Ruby
+Joomla |
+Drupal |
+TYPo3 |
+SharePoint |
+Magento |
+Prestashop |
+WordPress |
+Django |
+Plone |
 
-Il rste peu de CMS par rpport à avant ; les restants sont en open source et ils sont toujours présents parce qu'ils ne font pas tous la même chose 
+Il reste peu de CMS par rapport à avant ; les restants sont en open source et ils sont toujours présents parce qu'ils ne font pas tous la même chose. 
 
 Framework PHP : Symfony
 
-https://guides.github.com/features/mastering-markdown/
+Lien utile : https://guides.github.com/features/mastering-markdown/
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Aperçu de Liquid -> Jekyll ( ex : title: value et {{site.title}} )
