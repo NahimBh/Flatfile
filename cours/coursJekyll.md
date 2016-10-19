@@ -39,3 +39,10 @@ Pour cela :
 * touch default.html ( dans le répertoire layout, on créé le fichier default )
 * Dans ce fichier, on copie et on colle l'intégralité du code index sauf le main et on écrit {{ content }}
 * Puis dans le fichier index on écrit en plus du main et entre les lignes en pointillées ce code-ci : layout: default
+
+On ne peut pas appeler un fichier " md " dans un menu par exemple sinon on est obligé de le télécharger. Du coup on rajoute :
+"---"
+"---"
+
+Cela le transforme en HTML et dans les liens du menu même si c'est un fichier "md" on le met en HTML et cela permet de partager un fichier plus simple pour tout le monde vu que 'est un "md" 
+
