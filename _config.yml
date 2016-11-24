@@ -1,1 +1,5 @@
 title: Feuille de Documentation Flatfile
+collections: 
+    cours:
+    output: true 
+    permalink: cours/:path/
