@@ -1,0 +1,38 @@
+body{
+    font-family: Helvetica;
+}
+
+header{
+    background-image: url(../img/bg.png);
+    color:white;
+}
+
+.wrapper{
+    margin:0 auto;
+    max-width:45rem;
+}
+
+.wrapper h1, nav ul li, nav{
+    display: inline-block;
+    margin-left:25px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    border-bottom: 1px solid white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+footer p{
+    padding-top:12.5px;
+}
