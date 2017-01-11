@@ -1,12 +1,12 @@
 <div class="product">
   <a class="product" href="{{ product.url }}">
-    <img src="{{ product.Illustrations }}" alt="{{ product.Nom }}" class="thumbnail"/>
+    <img src="{{ product.Illustration }}" alt="{{ product.Nom }}" class="thumbnail"/>
     <p>{{ product.Nom }}</p>
   </a>
 
   <button class="snipcart-add-item"
     data-item-name="{{ product.Nom }}"
-    data-item-image="{{ product.Illustrations }}"
+    data-item-image="{{ product.Illustration }}"
     data-item-url="{{ site.url }}{{product.url }}"
     data-item-price="{{ product.Prix }}">
     Buy it for {{ product.Prix }} $
