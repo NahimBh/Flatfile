@@ -1,6 +1,6 @@
 ---
 title: Accueil
-layout: defaut
+layout: default
 ---
 
 <p>Bienvenue sur la page d'accueil !<br />
