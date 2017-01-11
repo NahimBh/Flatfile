@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Blog
+layout: default
 ---
 
 {% for post in site.posts limit:3 %}

@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Equipe
----   
+layout: page
+---
+
 <main>
 <p>Test Equipe</p>   
     

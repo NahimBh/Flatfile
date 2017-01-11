@@ -1,5 +1,29 @@
-title: Feuille de Documentation Flatfile
-collections: 
-cours:
-    output: true 
-    permalink: cours/:path/
+---
+title: Bigami
+timezone: UTC
+collections:
+  origami:
+    title: Origami
+    output: true
+  posts:
+    title: Posts
+    output: true
+  products:
+    title: Products
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
