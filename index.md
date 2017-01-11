@@ -1,7 +1,7 @@
 ---
-layout: products
 title: Store
----   
+layout: products
+---
 
 <p>Bienvenue sur la page d'accueil !<br />
 Voici mes différents cours:</p>
