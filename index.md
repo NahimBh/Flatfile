@@ -1,6 +1,6 @@
 ---
-title: Store
-layout: products
+title: Accueil
+layout: defaut
 ---
 
 <p>Bienvenue sur la page d'accueil !<br />
