@@ -23,7 +23,7 @@
 * 11.64 inches or 29.6 cm in width 
 * 10.28 inches or 26.1 cm in height
 
-*Visuels* : [Voir le Monument](_WestMinster.jpg)
+*Visuels* : [Voir le Monument](_WestMinster.JPG)
 
 -----------------
 
