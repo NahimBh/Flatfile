@@ -1,4 +1,4 @@
-#Cours#
+#Cours
 
 ##Séance 1##
 
