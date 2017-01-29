@@ -1,4 +1,4 @@
-# e-Commerce #
+# e-Commerce 
 
 C'est un domaine à part entière. 
 Il existe plusieurs fonctionnalités comme l'accélérateur d'achats etc 
