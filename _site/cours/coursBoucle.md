@@ -1,4 +1,4 @@
-# Suite du cours sur Jekyll # 
+# Suite du cours sur Jekyll 
 
 Layout = Gabarit 
 
