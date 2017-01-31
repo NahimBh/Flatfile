@@ -20,8 +20,6 @@ header{
 
 .wrapper h1, nav ul li, nav{
     display: inline-block;
-    margin-left:25px;
-    padding-left:25px;
 }
 
 a{
