@@ -14,10 +14,6 @@ header{
     max-width:45rem;
 }
 
-.wrapper nav ul a{
-    padding-left:25px;
-}
-
 .wrapper h1, nav ul li, nav{
     display: inline-block;
 }
