@@ -18,6 +18,11 @@ header{
     padding-left:25px;
 }
 
+.wrapper nav ul{
+    margin-left:25px;
+    padding-left;
+}
+
 .wrapper h1, nav ul li, nav{
     display: inline-block;
     margin-left:25px;
