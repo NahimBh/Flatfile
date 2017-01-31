@@ -12,12 +12,9 @@ header{
 .wrapper{
     margin:0 auto;
     max-width:45rem;
-    margin-left:25px;
-    padding-left:25px;
 }
 
-.wrapper nav ul{
-    margin-left:25px;
+.wrapper nav ul a{
     padding-left:25px;
 }
 
