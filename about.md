@@ -1,6 +1,6 @@
 ---
-title: About
-layout: page
+title: Cours
+layout: default
 ---
 
 # Test de la page About #
