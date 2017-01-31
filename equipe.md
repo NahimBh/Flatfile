@@ -1,10 +1,10 @@
 ---
 title: Equipe
-layout: page
+layout: default
 ---
 
 <main>
-<p>Test Equipe</p>   
+<p>Equipe</p>   
     
 {% for ligue in site.data.clubs %}
     {% for club in ligue[1 ]%}
